@@ -1,0 +1,13 @@
+{
+  "routes": [
+    "/adm-home",
+    "/list-professors",
+    "/list-students",
+    "/login",
+    "/professor-home",
+    "/register",
+    "/student",
+    "/update",
+    "/update-prof"
+  ]
+}
